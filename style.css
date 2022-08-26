@@ -1,0 +1,30 @@
+/* .divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+.block {
+    display: block;
+    width: 40%;
+    border: 2px solid #F0FFFF;
+    border-radius: 25px;
+    background-color: #1473e6;
+    color: #F0FFFF;
+    padding: 14px 28px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 60%;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+ */
+
+ .body{
+    font-family:cursive;
+ }
